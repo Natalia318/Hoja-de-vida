@@ -1,0 +1,40 @@
+header{
+   padding-bottom: 3rem;
+   background-image: url('./header.png');
+    background-repeat:no-repeat;
+    display:flex;
+    
+   
+}
+
+.foto{
+   
+    flex-basis:30%;
+    text-align:center;
+    
+}
+
+.foto img{
+    max-height: 130px;
+    border-radius:5%;
+     margin-top: 13px;
+}
+
+.texto{
+    flex-basis:70%;
+    margin-top: 2rem;
+   
+    
+}
+
+.texto h3{
+    max-width:100% ;
+    color: rgb(202, 199, 199);
+    
+}
+.texto h1{
+
+    color: rgb(245, 238, 238);
+   
+}
+

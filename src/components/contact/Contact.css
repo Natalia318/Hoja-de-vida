@@ -1,0 +1,77 @@
+.contacto{
+   
+    flex-basis:90%;
+    padding-left:5rem;
+}
+.dat1{
+    float: left;
+    margin-left: 5rem;
+    
+}
+.dat{
+    float: left;
+    overflow: hidden;
+    margin-left: 5rem;
+}
+.info{
+    margin-bottom:10px;
+}
+
+.info i{
+    
+    padding:10px;
+    border-radius:50%;
+    margin-right:10px;
+    font-size:20px;
+}
+
+.ref i{
+    font-size:2em;
+    color: #274257;
+    padding:10px;
+}
+
+.refnombre{
+    font-weight:500;
+}
+
+.refcargo{
+    padding-left:60px;
+}
+
+.enlaces img{
+    max-width:150px;
+    margin-left: 40%;
+    
+}
+
+
+h2{
+    text-align:left;
+    color: #7a7c7e;
+    margin-bottom: 10px;
+    
+}
+
+hr{
+    border-bottom:2px solid #4a4f53;
+    width:100%;
+    margin:5px auto;
+}
+
+.lugar{
+    float: left;
+    overflow: hidden;
+    color: #4a4f53;
+    
+    margin-right: 2rem;
+   max-width:35% ;
+    
+    text-align:right;
+}
+.espe{
+    float: left;
+    max-width:60% ;
+    text-decoration:underline;
+    
+}
